@@ -7,3 +7,20 @@
 
 ###     Input Feature => description
 ###     Output Feature => product_category_tree
+
+## Exploratory Data Analysis
+
+### Let’s see insights of data. The target product_category_tree has totally 11 distinct values. Those are Clothing, Footwear,Jewellery, Watches, and few more. We have product description of max length 2000+. It contains alphabets, numbers and lot of special characters. We should remove it before applying the ML model.
+
+## Machiner Learning Models Deployed
+
+###  Logistic Regression Classifier
+###      Accuracy_score 	= nn
+###      F1-Ration		= nn
+###  Support Vector Machine Classifier.
+###      Accuracy_score 	= nn
+###      F1-Ration		= nn
+###  Random Forest Classifier (ensemble model).
+###      Accuracy_score 	= nn
+###      F1-Ration		= nn
+
