@@ -15,12 +15,12 @@
 ## Machiner Learning Models Deployed
 
 ###  Logistic Regression Classifier
-###      Accuracy_score 	= nn
-###      F1-Ration		= nn
+###      Accuracy_score 	= 84%
+###      F1-Ration		= 87%
 ###  Support Vector Machine Classifier.
-###      Accuracy_score 	= nn
-###      F1-Ration		= nn
+###      Accuracy_score 	= 85%
+###      F1-Ration		= 88%
 ###  Random Forest Classifier (ensemble model).
-###      Accuracy_score 	= nn
-###      F1-Ration		= nn
+###      Accuracy_score 	= 82%
+###      F1-Ration		= 82%
 
