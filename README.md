@@ -10,7 +10,7 @@
 
 ## Exploratory Data Analysis
 
-### Let’s see insights of data. The target product_category_tree has totally 11 distinct values. Those are Clothing, Footwear,Jewellery, Watches, and few more. We have product description of max length 2000+. It contains alphabets, numbers and lot of special characters. We should remove it before applying the ML model.
+### Let’s see insights of data. The target product_category_tree has totally 11 distinct values. Those are Clothing, Footwear,Jewellery, Watches, and few more. We have a product description of max length 2000+. It contains alphabets, numbers and lot of special characters. We should remove it before applying the ML model.
 
 ## Machiner Learning Models Deployed
 
